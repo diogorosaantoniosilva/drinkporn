@@ -1,4 +1,13 @@
 # drinkporn
+## Summary:
+# Este .gitignore é configurado para um projeto de Inteligência Artificial (IA) que cria cocktails.
+# Ele cobre as seguintes áreas:
+# 1. Ignora arquivos temporários e de cache gerados pelo Python.
+# 2. Ignora arquivos e pastas de configuração de IDEs populares como VSCode, PyCharm, etc.
+# 3. Ignora diretórios de ambientes virtuais Python (venv, env).
+# 4. Ignora arquivos relacionados a Jupyter Notebooks.
+# 5. Ignora arquivos de log, dependências de pacotes, e outros arquivos temporários gerados durante o desenvolvimento.
+
 # Python
 __pycache__/
 *.py[cod]
